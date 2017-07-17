@@ -26,5 +26,8 @@
 ![screen shot 2017-07-17 at 11 37 39 pm](https://user-images.githubusercontent.com/26729817/28276362-45a21d8a-6b49-11e7-8f45-0fa224680b35.png)
 
 
-## Screenshot if incorrect pin number was entered
+### Screenshot if incorrect pin number was entered
+
+
+![screen shot 2017-07-17 at 11 44 53 pm](https://user-images.githubusercontent.com/26729817/28276652-23632fa6-6b4a-11e7-8730-4863cb43ca5f.png)
 
