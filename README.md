@@ -6,7 +6,7 @@
 ## User Info
 - Account Name : Geoff Carreon
 - Current Balance : 500 pesos
--Pin # : 123456
+- Pin # : 123456
 
 ## How this app works
 1) Like the normal atm process, this will first request for a pin number for security purposes.
